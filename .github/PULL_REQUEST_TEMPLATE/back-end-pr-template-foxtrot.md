@@ -7,7 +7,7 @@
 
 <!-- CC relevant team members -->
 
-### Depends On
+### Dependencies
 
 <!-- Does this PR depend on other PRs in the pipeline? Same service, other services, go-common etc.  If
   it depends on other PRs within the same repository, link github diffs between these PRs for ease of review -->
