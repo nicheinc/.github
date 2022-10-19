@@ -37,7 +37,7 @@
 
 ### Deployment 
 
-<!-- Any deployment considerations for this PR, including new service flags, dependencies, necessary order of operations etc. -->
+<!-- Any deployment considerations for this PR, including dependencies, necessary order of operations, etc. -->
 
 <!-- Does this PR represent a new back-end component that has never been deployed before? Consult the Production Readiness Checklist: https://docs.google.com/document/d/1MUjrz0m-zbTc4wmvxdmbCm6B2ML8fAluU7u9CqLSG9g/edit -->
 
