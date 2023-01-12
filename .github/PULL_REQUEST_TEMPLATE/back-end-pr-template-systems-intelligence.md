@@ -45,12 +45,12 @@
     - [ ] AC2
     - [ ] ...
 - [ ] Pull Request is linked to Asana task
+- [ ] CR has been offered to any other teams who the changes might effect
 - [ ] All appropriate automated Github checks pass
 - [ ] All the relevant `api-proctor` suites pass
 - [ ] Any new features requiring automation coverage are either
   - [ ] covered in an `api-proctor` PR here:
-  - [ ] documented on the
-  [PDO/ESO Automation Backlog](https://app.asana.com/0/1202082245735211/list).
+  - [ ] documented on the [SEIT Backlog](https://app.asana.com/0/1202082245735211/list).
 - [ ] There are no oustanding merge conflicts with dev
 
 ### Deployment 
