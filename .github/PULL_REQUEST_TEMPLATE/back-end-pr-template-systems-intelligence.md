@@ -45,7 +45,8 @@
     - [ ] AC2
     - [ ] ...
 - [ ] Pull Request is linked to Asana task
-- [ ] CR has been offered to any other teams who the changes might effect
+- [ ] Other teams who might be affected by the changes have been notified and
+  offered a chance to CR
 - [ ] All appropriate automated Github checks pass
 - [ ] All the relevant `api-proctor` suites pass
 - [ ] Any new features requiring automation coverage are either
