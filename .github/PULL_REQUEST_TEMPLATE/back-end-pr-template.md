@@ -41,6 +41,8 @@
 
 <!-- Does this PR represent a new back-end component that has never been deployed before? Consult the Production Readiness Checklist: https://docs.google.com/document/d/1MUjrz0m-zbTc4wmvxdmbCm6B2ML8fAluU7u9CqLSG9g/edit -->
 
+<!-- If assistance is required from infrastructure (e.g. deploying a new service) consider making a request using this form: https://form.asana.com/?k=xVoCwpuX5uzj4Au4ALc0Yw&d=684757491145461 -->
+
 ### Versioning
 
 <!-- Indicate whether this is a Major, Minor, or Patch bump and explain why. -->
