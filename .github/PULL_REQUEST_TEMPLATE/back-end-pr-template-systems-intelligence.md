@@ -22,7 +22,9 @@
 
 ### Testing Considerations
 
-<!-- Any specific testing considerations for this PR: dependencies, sample UUIDs, test data etc.-->
+<!-- Any specific testing considerations for this PR: dependencies, sample UUIDs, test data etc. -->
+
+<!-- If this PR will not be tested by a QAE, remember to add the "NO QA" label. -->
 
 ### SQL Migrations
 
