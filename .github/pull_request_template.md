@@ -34,10 +34,10 @@
     Migration Script: <link to migration script file>
     Description: <a description of the specific schema or data changes made by this migration script>
 
-    Keep this tag - the data enablement team will be notified via email of any changes: @nicheinc/data-enablement 
+    Keep this tag - the data enablement team will be notified via email of any changes: @nicheinc/data-enablement
 -->
 
-### Deployment 
+### Deployment
 
 <!-- Any deployment considerations for this PR, including dependencies, necessary order of operations, etc. -->
 
