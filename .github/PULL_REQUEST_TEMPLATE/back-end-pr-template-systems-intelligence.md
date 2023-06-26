@@ -37,6 +37,8 @@
     Keep this tag - the data enablement team will be notified via email of any changes: @nicheinc/data-enablement
 -->
 
+<!-- Does this PR add PII to a new table? Consult Anonymizing User Data: https://bookstack.niche.team/books/back-end-patterns-practices/page/anonymizing-user-data -->
+
 ### QA Handoff Checklist
 
 <!-- Set of steps to take to verify that this PR is in fact ready to hand off to QA. -->
