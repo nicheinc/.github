@@ -34,8 +34,10 @@
     Migration Script: <link to migration script file>
     Description: <a description of the specific schema or data changes made by this migration script>
 
-    Keep this tag - the data enablement team will be notified via email of any changes: @nicheinc/data-enablement 
+    Keep this tag - the data enablement team will be notified via email of any changes: @nicheinc/data-enablement
 -->
+
+<!-- Does this PR add PII to a new table? Consult Anonymizing User Data: https://bookstack.niche.team/books/back-end-patterns-practices/page/anonymizing-user-data -->
 
 ### QA Handoff Checklist
 
@@ -43,23 +45,23 @@
 
 - [ ] Acceptance Criteria are correct
 - [ ] Acceptance Criteria are being met
-    - [ ] AC1
-    - [ ] AC2
-    - [ ] ...
+  - [ ] AC1
+  - [ ] AC2
+  - [ ] ...
 - [ ] Pull Request is linked to Asana task
 - [ ] Other teams who might be affected by the changes have been notified and
-  offered a chance to CR
+      offered a chance to CR
 - [ ] All appropriate automated Github checks pass
 - [ ] All the relevant `api-proctor` suites pass
 - [ ] Any new features requiring automation coverage are either
   - [ ] covered in an `api-proctor` PR here:
   - [ ] documented on the [Indigo Automation
-    Backlog](https://app.asana.com/0/1204031336473161/list)
+        Backlog](https://app.asana.com/0/1204031336473161/list)
   - [ ] documented on the [SEIT Backlog](https://app.asana.com/0/1202082245735211/list)
   - [ ] PR contains no new features
 - [ ] There are no oustanding merge conflicts with dev
 
-### Deployment 
+### Deployment
 
 <!-- Any deployment considerations for this PR, including dependencies, necessary order of operations, etc. -->
 
