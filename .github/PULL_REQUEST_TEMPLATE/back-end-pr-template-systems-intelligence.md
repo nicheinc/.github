@@ -67,7 +67,7 @@
 
 <!-- Does this PR represent a new back-end component that has never been deployed before? Consult the Production Readiness Checklist: https://docs.google.com/document/d/1MUjrz0m-zbTc4wmvxdmbCm6B2ML8fAluU7u9CqLSG9g/edit -->
 
-<!-- Does this PR update the Go, pgsql, or kafkalib versions? Does it add CI, an OpenAPI schema, or metrics? If so, make sure to update the [BE Code Owners spreadsheet](https://docs.google.com/spreadsheets/d/1q-BL9Ak0JVH9OwOa_q8vzQ2RzleVr2znk48f_rNh0v0/edit#gid=0). -->
+<!-- Does this PR update the Go, pgsql, or kafkalib versions? Does it add CI, an OpenAPI schema, or metrics? If so, make sure to update the BE Code Owners spreadsheet: https://docs.google.com/spreadsheets/d/1q-BL9Ak0JVH9OwOa_q8vzQ2RzleVr2znk48f_rNh0v0 -->
 
 <!-- If assistance is required from infrastructure (e.g. deploying a new service) consider making a request using this form: https://form.asana.com/?k=xVoCwpuX5uzj4Au4ALc0Yw&d=684757491145461 -->
 
