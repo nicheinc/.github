@@ -33,11 +33,12 @@
 <!--
     Migration Script: <link to migration script file>
     Description: <a description of the specific schema or data changes made by this migration script>
-
-    Keep this tag - the data enablement team will be notified via email of any changes: @nicheinc/data-enablement
 -->
 
 <!-- Does this PR add PII to a new table? Consult Anonymizing User Data: https://bookstack.niche.team/books/back-end-patterns-practices/page/anonymizing-user-data -->
+
+<!-- Does this migration affect tables in Snowflake? If yes, submit a Data Team Request to have the schema migration reflected in Snowflake.
+https://form.asana.com/?k=uNnfTyZZVsxifMCOIPdwiw&d=684757491145461 -->
 
 ### QA Handoff Checklist
 
