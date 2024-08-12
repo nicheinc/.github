@@ -47,6 +47,10 @@
 
 <!-- If assistance is required from infrastructure (e.g. deploying a new service) consider making a request using this form: https://form.asana.com/?k=-pDs7E5emj8F7_E8T1OuMQ&d=684757491145461 -->
 
+<!-- Only check the following box after verifying that this PR requires no additional manual testing before deployment and that any deployment dependencies have already been resolved. -->
+
+[ ] Deploy to production automatically upon successful API Proctor tests
+
 ### Versioning
 
 <!-- Indicate whether this is a Major, Minor, or Patch bump and explain why. -->
