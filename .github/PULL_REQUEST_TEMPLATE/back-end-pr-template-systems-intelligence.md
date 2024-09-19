@@ -71,7 +71,7 @@
 
 <!-- Only check the following box after verifying that this PR requires no additional manual testing before deployment and that any deployment dependencies have already been resolved. -->
 
-[ ] Deploy to production automatically upon successful API Proctor tests
+- [ ] Deploy to production automatically upon successful API Proctor tests
 
 ### Versioning
 
