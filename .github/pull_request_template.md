@@ -1,20 +1,19 @@
 <!--
-	Niche Back-End PR Template
-	Don't Forget:
-	- Add your PR to any relevant github boards
-	- Tag your PR with the BACK_END label
+  Niche Back-End PR Template
+
+  Don't forget to tag your PR with the BACK_END label.
 -->
 
 <!-- CC relevant team members -->
 
 ### Dependencies
 
-<!-- Does this PR depend on other PRs in the pipeline? Same service, other services, go-common etc.  If
-  it depends on other PRs within the same repository, link github diffs between these PRs for ease of review -->
+<!-- Does this PR depend on other PRs (same service, other services, libraries)? If so, link them here.
+  If this PR is branched from another PR, change the base branch for ease of review. -->
 
 ### Documentation
 
-<!-- Link(s) to documentation relevant to the work, such as issues, wiki, tech debt cards, etc. -->
+<!-- Link(s) to documentation relevant to the work, such as issues, Jira work items, etc. -->
 
 ### Description
 
@@ -24,20 +23,23 @@
 
 <!-- Any specific testing considerations for this PR: dependencies, sample UUIDs, test data etc. -->
 
-<!-- If this PR will not be tested by a QAE, remember to add the "NO QA" label. -->
+<!-- If this PR will not be tested by a QE, remember to add the "NO QA" label. -->
 
 ### SQL Migrations
 
-<!-- Uncomment and fill out the following section if this PR contains any alterations to the service's database -->
-
-<!--
-    Migration Script: <link to migration script file>
-    Description: <a description of the specific schema or data changes made by this migration script>
-
-    Keep this tag - the data enablement team will be notified via email of any changes: @nicheinc/data-enablement
--->
-
 <!-- Does this PR add PII to a new table? Consult Data Privacy Compliance: https://bookstack.niche.team/books/back-end-patterns-practices/page/data-privacy-compliance -->
+
+<!-- Uncomment and fill in this section if both of the following are true:
+
+  1. This PR adds a new table or a new column with a default value
+  2. Your team or another team needs these schema changes to be reflected in Snowflake
+
+Migration script: <link to migration script file>
+
+Description: <a description of the schema changes made by this migration script>
+
+Notice for the Data Engineering team: @nicheinc/data-engineering
+-->
 
 ### Deployment
 
@@ -45,7 +47,7 @@
 
 <!-- Does this PR represent a new back-end component that has never been deployed before? Consult the Production Readiness Checklist: https://docs.google.com/document/d/1MUjrz0m-zbTc4wmvxdmbCm6B2ML8fAluU7u9CqLSG9g/edit -->
 
-<!-- If assistance is required from infrastructure (e.g. deploying a new service) consider making a request using this form: https://form.asana.com/?k=-pDs7E5emj8F7_E8T1OuMQ&d=684757491145461 -->
+<!-- If assistance is required from infrastructure (e.g. deploying a new service) consider submitting a Reliability Request: https://nicheinc.atlassian.net/servicedesk/customer/portal/2/group/6/create/18 -->
 
 ### Versioning
 
