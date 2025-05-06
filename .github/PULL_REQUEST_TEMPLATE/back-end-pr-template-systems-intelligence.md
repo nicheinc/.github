@@ -72,6 +72,10 @@ Notice for the Data Engineering team: @nicheinc/data-engineering
 
 <!-- If assistance is required from infrastructure (e.g. deploying a new service) consider submitting a Reliability Request: https://nicheinc.atlassian.net/servicedesk/customer/portal/2/group/6/create/18 -->
 
+<!-- Only check the following box after verifying that this PR requires no additional manual testing before deployment and that any deployment dependencies have already been resolved. -->
+
+- [ ] Deploy to production automatically upon successful API Proctor tests
+
 ### Versioning
 
 <!-- Indicate whether this is a Major, Minor, or Patch bump and explain why. -->
