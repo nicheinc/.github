@@ -23,8 +23,6 @@
 
 <!-- Any specific testing considerations for this PR: dependencies, sample UUIDs, test data etc. -->
 
-<!-- If this PR will not be tested by a QE, remember to add the "NO QA" label. -->
-
 ### SQL Migrations
 
 <!-- Does this PR add PII to a new table? Consult Data Privacy Compliance: https://bookstack.niche.team/books/back-end-patterns-practices/page/data-privacy-compliance -->
