@@ -27,16 +27,11 @@
 
 <!-- Does this PR add PII to a new table? Consult Data Privacy Compliance: https://bookstack.niche.team/books/back-end-patterns-practices/page/data-privacy-compliance -->
 
-<!-- If both of the following are true...
-
-  1. This PR adds a new table or a new column with a default value
-  2. Your team or another team needs these schema changes to be reflected in Snowflake
-
-...then submit a Data Engineering Request Form
-(https://nicheinc.atlassian.net/servicedesk/customer/portal/5) asking for your
-schema changes be reflected in Snowflake. Be sure to include a link to your PR
-and schema migration files, along with a description of the schema changes.
--->
+<!-- If this PR contains a schema migration that your team or another team needs
+  to be reflected in Snowflake, please submit a Data Engineering Request Form
+  (https://nicheinc.atlassian.net/servicedesk/customer/portal/5). Be sure to
+  include a link to your PR and schema migration files, along with a description
+  of the schema changes. -->
 
 ### Deployment
 
