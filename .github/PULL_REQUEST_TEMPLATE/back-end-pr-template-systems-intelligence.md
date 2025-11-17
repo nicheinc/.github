@@ -33,6 +33,10 @@
   include a link to your PR and schema migration files, along with a description
   of the schema changes. -->
 
+### AI Usage
+
+<!-- Were any AI Development tools used to develop any part of this PR? If so, summarize their usage below.  -->
+
 ### QA Handoff Checklist
 
 <!-- Set of steps to take to verify that this PR is in fact ready to hand off to QA. -->
