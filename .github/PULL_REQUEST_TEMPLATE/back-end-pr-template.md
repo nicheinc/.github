@@ -25,7 +25,7 @@
 
 ### SQL Migrations
 
-<!-- Does this PR add PII to a new table? Consult Data Privacy Compliance: https://bookstack.niche.team/books/back-end-patterns-practices/page/data-privacy-compliance -->
+<!-- Does this PR add PII to a new table? Consult Data Privacy Compliance: https://nicheinc.atlassian.net/wiki/spaces/tech/pages/347930667/Data+Privacy+Compliance -->
 
 <!-- If this PR contains a schema migration that your team or another team needs
   to be reflected in Snowflake, please submit a Data Engineering Request Form
