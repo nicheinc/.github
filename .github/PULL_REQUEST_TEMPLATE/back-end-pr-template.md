@@ -4,8 +4,7 @@
 
 ### Dependencies
 
-<!-- Does this PR depend on other PRs (same service, other services, libraries)? If so, link them here.
-  If this PR is branched from another PR, change the base branch for ease of review. -->
+<!-- Does this PR depend on other PRs (same service, other services, libraries)? If so, link them here. If this PR is branched from another PR, change the base branch for ease of review. -->
 
 ### Documentation
 
@@ -23,11 +22,7 @@
 
 <!-- Does this PR add PII to a new table? Consult Data Privacy Compliance: https://nicheinc.atlassian.net/wiki/spaces/tech/pages/347930667/Data+Privacy+Compliance -->
 
-<!-- If this PR contains a schema migration that your team or another team needs
-  to be reflected in Snowflake, please submit a Data Engineering Request Form
-  (https://nicheinc.atlassian.net/servicedesk/customer/portal/5). Be sure to
-  include a link to your PR and schema migration files, along with a description
-  of the schema changes. -->
+<!-- If this PR contains a schema migration that your team or another team needs to be reflected in Snowflake, please submit a Data Engineering Request Form (https://nicheinc.atlassian.net/servicedesk/customer/portal/5). Be sure to include a link to your PR and schema migration files, along with a description of the schema changes. -->
 
 ### Deployment
 

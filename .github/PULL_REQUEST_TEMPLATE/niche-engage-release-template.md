@@ -6,8 +6,7 @@
 
 ## [INSERT TITLE]
 
-<!-- Does this PR depend on other PRs (same service, other services, libraries)? If so, link them here.
-  If this PR is branched from another PR, change the base branch for ease of review. -->
+<!-- Does this PR depend on other PRs (same service, other services, libraries)? If so, link them here. If this PR is branched from another PR, change the base branch for ease of review. -->
 
 ### Pre Release Action Items
 
