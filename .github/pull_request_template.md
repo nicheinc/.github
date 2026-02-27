@@ -1,8 +1,4 @@
-<!--
-  Niche Back-End PR Template
-
-  Don't forget to tag your PR with the BACK_END label.
--->
+<!-- Niche Back-End PR Template -->
 
 <!-- CC relevant team members -->
 
