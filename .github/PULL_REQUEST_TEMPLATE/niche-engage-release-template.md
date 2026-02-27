@@ -25,10 +25,9 @@
 <!-- Generate a list of each of the commits included in this PR alongside the corresponding
       PR's that generated them + their JIRA tickets, if applicable -->
 
-<!-- To generate this log, run the following command with the release branch checked out: 
+<!-- To generate this log, run the following command with the release branch checked out:
        git log origin/production..$(git rev-parse --abbrev-ref HEAD) --format='%h - %ad - %s %aN' --date=format:'%b %d %Y' | tac | sed 's/^/- /'
 -->
-
 
 ### Versioning
 
