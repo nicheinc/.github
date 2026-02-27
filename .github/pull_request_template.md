@@ -37,9 +37,7 @@
 
 <!-- If assistance is required from infrastructure (e.g. deploying a new service) consider submitting a Reliability Request: https://nicheinc.atlassian.net/servicedesk/customer/portal/2/group/6/create/18 -->
 
-<!-- Only check the following box after verifying that this PR requires no additional manual testing before deployment and that any deployment dependencies have already been resolved. -->
-
-- [ ] Deploy to production automatically upon successful API Proctor tests
+<!-- If no more manual testing is required before deployment, you may add the deploy-automatically label to run API Proctor tests in stage and deploy to production if all tests pass. -->
 
 ### Versioning
 
