@@ -40,4 +40,4 @@
 
 ### AI Usage
 
-<!-- Describe to what extent, if any, AI was used in the creation of this PR. This might include planning, e.g. "I asked Claude for advice", or direct input, e.g. "This function was written by Cursor". Remember, you're attaching *your* name to this PR -- if *you* don't understand what you're submitting, you're passing the burden of knowledge onto those reviewing (or debugging) in the future instead.-->
+<!-- Describe to what extent, if any, AI was used in the creation of this PR. This might include planning, e.g. "I asked Claude for advice", or direct input, e.g. "This function was written by Cursor". Remember, you're attaching *your* name to this PR -- if *you* don't understand what you're submitting, you're passing the burden of knowledge onto those reviewing (or debugging) in the future instead. -->
